@@ -1,0 +1,13 @@
+C:\Users\elpri\Desktop\Proshecto\bin\Debug\netcoreapp3.1\Proshecto.exe
+C:\Users\elpri\Desktop\Proshecto\bin\Debug\netcoreapp3.1\Proshecto.deps.json
+C:\Users\elpri\Desktop\Proshecto\bin\Debug\netcoreapp3.1\Proshecto.runtimeconfig.json
+C:\Users\elpri\Desktop\Proshecto\bin\Debug\netcoreapp3.1\Proshecto.runtimeconfig.dev.json
+C:\Users\elpri\Desktop\Proshecto\bin\Debug\netcoreapp3.1\Proshecto.dll
+C:\Users\elpri\Desktop\Proshecto\bin\Debug\netcoreapp3.1\Proshecto.pdb
+C:\Users\elpri\Desktop\Proshecto\obj\Debug\netcoreapp3.1\Proshecto.csprojAssemblyReference.cache
+C:\Users\elpri\Desktop\Proshecto\obj\Debug\netcoreapp3.1\Proshecto.AssemblyInfoInputs.cache
+C:\Users\elpri\Desktop\Proshecto\obj\Debug\netcoreapp3.1\Proshecto.AssemblyInfo.cs
+C:\Users\elpri\Desktop\Proshecto\obj\Debug\netcoreapp3.1\Proshecto.csproj.CoreCompileInputs.cache
+C:\Users\elpri\Desktop\Proshecto\obj\Debug\netcoreapp3.1\Proshecto.dll
+C:\Users\elpri\Desktop\Proshecto\obj\Debug\netcoreapp3.1\Proshecto.pdb
+C:\Users\elpri\Desktop\Proshecto\obj\Debug\netcoreapp3.1\Proshecto.genruntimeconfig.cache
